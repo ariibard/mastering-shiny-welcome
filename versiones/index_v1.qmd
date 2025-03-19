@@ -61,7 +61,7 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 
 ::: r-stack
 📅 Cada dos semanas \| ⏰ 18:30 - 20:00 (UTC-3)\
-📌 Inscripción previa en **Meetup**
+📌 Inscripción previa en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/306328129/)
 :::
 
 ## ¿De qué se trata? {.theme-section2 .center}
@@ -96,9 +96,37 @@ Nos encontraremos durante 10 miércoles para leer juntas, resolver ejercicios y 
 ✅ Incluir la resolución de un ejercicio
 
 📂 Compartimos las presentaciones en nuestro repositorio.
-
-🔗 [Ver cronograma de encuentros](https://github.com/RLadies-BA/mastering-shiny)
 :::
+
+## **Próximos encuentros** {.theme-slide8}
+
+### Exploramos **Mastering Shiny** capítulo a capítulo.
+
+::: incremental
+-   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
+    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
+
+-   🗓️ **2025-03-19** \| Basic reactivity (Cap. 3)
+
+-   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
+    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
+
+-   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
+:::
+
+## **Próximos encuentros** {.theme-slide8}
+
+### Exploramos **Mastering Shiny** capítulo a capítulo.
+
+-   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
+    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
+
+-   [🗓️ **2025-03-19** \| Basic reactivity (Cap. 3) ⬅️[Buscamos presentador]{style="color:#678D41; font-weight: bold;"}]{.fragment .highlight-orange}
+
+-   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
+    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
+
+-   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
 
 ## Seguinos 🪐 {.theme-slide7}
 
@@ -116,4 +144,4 @@ Escaneá el QR y sumate al [canal de slack](https://join.slack.com/t/renbaires/s
 
 #           Empezamos {.theme-section3 .center}
 
-![](https://i.gifer.com/2GU.gif){fig-align="center" width="214"}
+![](https://i.gifer.com/2GU.gif){width="426"}
